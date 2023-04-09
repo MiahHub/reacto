@@ -1,0 +1,30 @@
+
+Jeremiah Chesley
+Professional Experience – Detail
+Director of Internal Operations – 2013 to 2016
+ATA Services, Salt Lake City, Utah
+
+Design the business logic and user interfaces for new asset management software products, both web and mobile. consult on the development of such products with outside programmers and internal personnel. Aide Data Management with the maintenance of key dynamic data for clients within an SQL database. Manage overseas programming team efforts to creating our web, mobile, and database development. Maintain, troubleshoot and QC released software stacks against design requirements. Designed and manufactured custom survey tools and processes for ADA and lighting surveys.
+
+Professional Experience – Detail
+Director of Development – 2016 to 2017
+KEEP Technology, a joint venture with ATA Services, Salt Lake City, Utah
+
+Design the business logic and user interfaces for a new venture’s asset management platform. Direct and advise ownership on best practices and best course of action for development needs. Interface with local and overseas developers and consultants to create and modify mobile app and website for the collection of remote asset data. Develop and assist owners and sales and marketing with customized strategies for beta clients including app and website modifications, creation, validation and deployment of individualized data collection schemas and on-the-fly support of beta customers as they began to use the platform. Extensive back-end work within the SQL database and on supporting web and image servers.
+
+Professional Experience – Detail
+Executive Vice President – 2017 to 2020
+ATA Services, Salt Lake City, Utah
+
+Administer operational excellence and support CEO and owner business development directives. Develop and assist marketing and sales efforts by bringing 20 years of industry experience to bear on client’s individualized needs. Advise and design services and management strategies and support Project Managers in executing them. Provide oversight and coaching for operational processes, teams and assets. Maintain backend business systems and provide support to users, clients and internal teams.
+In concert with the CEO, delivered the owner with record growth and profitability by employing sales efforts to existing client base as well as by new client acquisition. Developed sales and operational processes to promote client satisfaction and drive revenue. Developed internal processes and policies and refreshed corporate policy strategy for all new hires. Instituted the adoption of collaboration software to promote internal transparency and productivity while accommodating a more agile workforce. Developed high level initiatives with large scale clients to address their needs in brand management and ADA compliance arenas specific to their internal directives and risk assessments.
+Drove additional sales within existing client base by educating clients on ATA’s offerings and expertise. Created and maintained client and stock decal replacement program including the custom design of compliant Braille functionality decals to maximize client compliance programs and drive associated internal revenue. Create and maintain SOW for clients for one-off projects and support project managers and field service personnel with scope of work, service and conflict resolution work flows. Bid and advised on specialized projects and opportunities for partners and clients. Provided support for the company as a whole by sharing advice, training and mentorship as the company oracle.
+
+Professional Experience – Detail
+Vice President of Operations – 2020 - Present
+Companion Asset Management, North Salt Lake City, Utah
+
+Design a business plan and operational and software development strategy from whole cloth for a new division of the parent company.  Provide cost projections and revenue and earnings insights.  Plan and develop a web app and iOS app for field service data to be gathered and stored for clients. Build all business and operational plans for a field service company leveraging my experience and technologies being built in parallel.  
+Guide and manage overseas development team building web and iOS applications.  Design UI / UX for all, and manage back-end data structure.  Assist in troubleshooting APIs, explain database schema and give granular guidance to the development teams.  Track project and issues within Jira and leverage Atlassian products for maximum dev team efficiency.
+Design, manage and maintain web and other digital marketing assets for the start-up and parent company.  Collaborate with the ownership and management structure to foster cohesion and cooperation between the two companies to ensure each is a partner in a single unified operation.
+
