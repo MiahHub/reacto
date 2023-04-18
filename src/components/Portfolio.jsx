@@ -1,6 +1,6 @@
 import React from 'react';
 import cat from '../assets/cat.png';
-import scheduler from '../assets/scheduler2.png';
+import logic from '../assets/lounge.png';
 import boat from '../assets/boat.png';
 import social from '../assets/socialapi.png';
 import ios from '../assets/ios.png';
@@ -62,22 +62,27 @@ const Portfolio = () => {
               </div>
             </div>
           </div>
-          <div
-            style={{ backgroundImage: `url(${scheduler})` }}
+                    <div
+            style={{ backgroundImage: `url(${logic})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Workday Scheduler
+                Logic Lounge
               </span>
-              <p className='text-center'>A simple JavaScript scheduling app</p>
+              <p className='text-center'>A MERN stack tutoring platform</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://github.com/kfarshchian/Logic-Lounge'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
                 </a>
+                <a href='https://logic-lounge-production.up.railway.app/'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                    App
+                  </button>
+                  </a>
               </div>
             </div>
           </div>
